@@ -27,6 +27,7 @@ public class Arithmetic{
                 break;
             default:
                 System.out.println("Invalid Input");
+                return;
         }
 
         System.out.println(res);
